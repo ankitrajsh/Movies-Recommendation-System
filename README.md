@@ -83,5 +83,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - TMDB for providing the dataset.
 - The Python and ML community for excellent resources and libraries.
 ```
-
-This README template outlines the key sections you should include in your project documentation. Make sure to customize each section according to the specifics of your Movie Recommender System project, including how to set up, run the application, and how others can contribute.
