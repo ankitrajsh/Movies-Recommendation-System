@@ -82,4 +82,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - TMDB for providing the dataset.
 - The Python and ML community for excellent resources and libraries.
-```
